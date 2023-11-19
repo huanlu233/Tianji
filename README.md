@@ -3,3 +3,6 @@ A hack client about minecraft 1.8.9,You can use it to inject 1.8.9 forge minecra
 
 # Issues
 If you notice any bugs or missing features, you can let us know by opening an issue <a href="https://github.com/huanlu233/Tianji/issues">here</a>
+
+# License
+This project is subject to the 
