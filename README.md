@@ -2,4 +2,4 @@
 A hack client about minecraft 1.8.9,You can use it to inject 1.8.9 forge minecraft
 
 # Issues
-If you notice any bugs or missing features, you can let us know by opening an issue
+If you notice any bugs or missing features, you can let us know by opening an issue https://github.com/huanlu233/Tianji/issues
